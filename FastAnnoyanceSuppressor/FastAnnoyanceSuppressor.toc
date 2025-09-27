@@ -1,0 +1,18 @@
+## Interface: 110205
+## Title:|cffd6266cFastAnnoyanceSuppressor|r
+## Notes: Mutes toy sounds and auto-removes annoying buffs/costumes.
+## Notes-deDE: Stummschaltung von Spielzeug-Sounds und automatisches Entfernen nerviger Buffs/Kostüme.
+## Notes-frFR: Coupe les sons de jouets et supprime automatiquement les buffs/costumes agaçants.
+## Notes-esES: Silencia los sonidos de juguetes y elimina automáticamente los buffs/disfraces molestos.
+## Notes-esMX: Silencia los sonidos de juguetes y elimina automáticamente los buffs/disfraces molestos.
+## Notes-itIT: Silenzia i suoni dei giocattoli e rimuove automaticamente buff/costumi fastidiosi.
+## Notes-ruRU: Отключает звуки игрушек и автоматически удаляет раздражающие баффы/костюмы.
+## Notes-zhCN: 静音玩具声音并自动移除烦人的Buff/变装效果。
+## Notes-zhTW: 靜音玩具聲音並自動移除煩人的Buff/變裝效果。
+## Notes-koKR: 장난감 소리를 음소거하고 성가신 버프/코스튬을 자동으로 제거합니다.
+## Author: BloodDragon2580
+## Version: 1.0
+## SavedVariables: FAS_Saved
+## IconTexture: Interface\AddOns\FastAnnoyanceSuppressor\Media\Texture\logo
+
+FastAnnoyanceSuppressor.lua
