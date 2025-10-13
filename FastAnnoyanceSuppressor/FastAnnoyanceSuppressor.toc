@@ -11,7 +11,7 @@
 ## Notes-zhTW: 靜音玩具聲音並自動移除煩人的Buff/變裝效果。
 ## Notes-koKR: 장난감 소리를 음소거하고 성가신 버프/코스튬을 자동으로 제거합니다.
 ## Author: BloodDragon2580
-## Version: 1.1
+## Version: 1.2
 ## SavedVariables: FAS_Saved
 ## IconTexture: Interface\AddOns\FastAnnoyanceSuppressor\Media\Texture\logo
 
