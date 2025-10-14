@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 120000
 ## Title:|cffd6266cFastAnnoyanceSuppressor|r
 ## Notes: Mutes toy sounds and auto-removes annoying buffs/costumes.
 ## Notes-deDE: Stummschaltung von Spielzeug-Sounds und automatisches Entfernen nerviger Buffs/Kostüme.
@@ -11,7 +11,7 @@
 ## Notes-zhTW: 靜音玩具聲音並自動移除煩人的Buff/變裝效果。
 ## Notes-koKR: 장난감 소리를 음소거하고 성가신 버프/코스튬을 자동으로 제거합니다.
 ## Author: BloodDragon2580
-## Version: 1.2
+## Version: 1.3
 ## SavedVariables: FAS_Saved
 ## IconTexture: Interface\AddOns\FastAnnoyanceSuppressor\Media\Texture\logo
 
